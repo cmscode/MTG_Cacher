@@ -1,0 +1,29 @@
+looks like this is in good shape. 09/30
+good OO org and integration with Magick API
+saved lots of pickle files and great system to open up and work with them.
+
+next step if so desired would be to maybe build a deck with what's in the other decks,
+but that's not super important right now.
+
+what i was nicely surprised by today was that when i opened this up i saw how nicely it was done. i
+can check the git logs and see when i worked on this.
+
+other notes.
+
+good to have a py project online but i honestly like having this local.
+that's just a separate architechtural issue that is good to have something to test with.
+
+i'd have to scope what i wanted to do with this, the short answer is nothing really right now.
+i know i have a preponderance for just working with data in an organized fashion, but never really
+'doing' anything with it.
+
+i suppose i'd have to look at this and determine if there's anything else i'd like to do with it.
+i'm just happy it works as well as it does, and it can find stuff in the pickled files so quickly!
+
+SchaWheata!
+
+9/30/22
+
+add'l note:
+
+looks like i last worked on this during shenanigans and did an excellent job! schawheat!
