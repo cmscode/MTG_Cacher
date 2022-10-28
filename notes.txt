@@ -27,3 +27,8 @@ SchaWheata!
 add'l note:
 
 looks like i last worked on this during shenanigans and did an excellent job! schawheat!
+
+10/22 notes
+
+deck creator. interactive, pull from decks, specify colors creature types, etc. 
+algorithm can get tough quick! but worth playing around with! 
